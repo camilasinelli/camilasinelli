@@ -19,7 +19,6 @@
 <p></a><img src="https://media.giphy.com/media/LpvRzoMpaL4FZkdXzM/giphy.gif" width="30vw" height="27"/><em> Webmaster at Google Developer Student Club @ UCF</em></p>
 <p></a><img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="30vw" height="27"/><em> Aspiring Software Engineer</em></p>
 <p></a><img src="https://media.giphy.com/media/4PUkqN8QQsaFIkqi8a/giphy.gif" width="30vw" height="27"/><em> Interested in Front-end development and Design</em></p>
-<p></a><img src="https://media.giphy.com/media/U6eaFPHjUomDS7dkAU/giphy.gif" width="30vw" height="27"/><em> Love playing with cats and watching movies</em></p>
 <p></a><img src="https://media.giphy.com/media/wtdVYmaRWJ1PyPcc8e/giphy.gif" width="30vw" height="27"/><em> Languages I'm familiar with ⤵</em></p>
 
 </br>
